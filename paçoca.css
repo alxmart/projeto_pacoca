@@ -1,0 +1,63 @@
+.fundo {
+ background-color: #FFFFFF;
+}
+.container1{
+  background-color: aliceblue;
+}
+em {
+   font-size: 130%;
+   color: darkorange;
+}
+.container2{
+  background-color: mintcream;
+}
+.container3{
+  background-color: #FFEBCD;
+}
+h1 {
+  font: bold 32pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+  text-align: center;
+  color: darkorange;
+}
+h2 {
+  font: bold 18pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+  text-align: center;
+  color: darkgreen;
+}
+.par_blue {
+  font: bold 18pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+  text-align: center;
+  color: darkblue;
+}
+IMG.foto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 900px;
+  height: 900px;
+}
+.par_green {
+  font: bold 18pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+  text-align: center;
+  color: darkgreen;
+}
+.par_purple {
+  font: bold 18pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+  text-align: center;
+  color: indigo;
+}
+li {
+  margin-left: auto;
+  margin-right: auto;
+  color: blue;
+  font-size: 150%;
+}
+ul.lista_centrada{
+    text-align: center;
+    list-style: none;
+}
+.link {
+    font: bold 14pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    color: black;
+}
